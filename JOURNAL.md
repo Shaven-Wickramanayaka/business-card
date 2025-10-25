@@ -31,3 +31,11 @@ Added all the graphics for it to be a functional business card. Using various ov
 
   
 
+## 10/25/2025 2 PM - Ordering the Card on JLCPCB  
+
+Started the ordering process on JLCPCB. I had to repeat a few time because I thought a duplicate order was being created only to realise that was the assembly of the board itself. I was tempted to go with ENIG for the coating but was quickly discouraged by seeing the price jump up by twice the amount it would've been with Leadfree HASL, which i chose over HASL as the card would be handled frequently and the last thing I needed was lead poisoning. Now all that is left to do is updating the Github repo with the necessary files and shipping the project.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--d4fd3d176de12b87b27f295bc8bbf55815b3ee57/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTUwMiwicHVyIjoiYmxvYl9pZCJ9fQ==--9b46e96df1a746da972658a05abf4b4dc7e7388c/image.png)
+
+  
+
