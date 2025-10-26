@@ -14,4 +14,13 @@
 | 4  | 47Ω                   | R1         | R0603                                             | 1        | 0603WAF470JT5E    | UNI\-ROYAL\(厚声\) | LCSC     | C23182        | 0\.001 | 2    | R0603                      | lcsc           | Basic Part        | https://www\.mouser\.in/datasheet/2/447/PYu\_RT\_1\_to\_0\_01\_RoHS\_L\_11\-1669912\.pdf |
 | 5  | NT3H2111W0FHKH        | U1         | XQFN\-8\_L1\.6\-W1\.6\-P0\.50\-BL\_NT3H2111W0FHKH | 1        | NT3H2111W0FHKH    | NXP\(恩智浦\)       | LCSC     | C710403       | 0\.695 | 8    |                            | LCSC           | Extended Part     | https://www\.nxp\.com/docs/en/data\-sheet/NT3H2111\_2211\.pdf                            |
 
+Build of Materials 
+
+| Item                | Description                            | Unit Price | Quantity | Total Price | Running Total |
+|---------------------|----------------------------------------|------------|----------|-------------|---------------|
+| 25X48MM_NFC_ANTENNA | NFC Antenna made with a coil of copper | 0          | 5        | 0           | 0             |
+| 220nF               | Resistor of 220 nF                     | 0.006      | 5        | 0.03        | 0.03          |
+| 17-21SUYC/TR8       | Yellow LED                             | 0.012      | 5        | 0.06        | 0.09          |
+| 47?                 | 47 ohm resistor                        | 0.001      | 5        | 0.005       | 0.095         |
+| NT3H2111W0FHKH      | NFC Chip                               | 0.695      | 5        | 3.475       | 3.57          |
 
