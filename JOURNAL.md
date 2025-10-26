@@ -39,3 +39,10 @@ Started the ordering process on JLCPCB. I had to repeat a few time because I tho
 
   
 
+## 10/26/2025 - Completed the Github Repo  
+
+After reading the submission guidelines for the project, i realised the build of materials generated with EasyEDA might not be the one the team was hoping for. So I created a new one from scratch while keeping the original one in the PCB folder in the repository. Had a small issue with LibreOffice producing a csv without any commas but that was easily fixed by converting the whole document into ODF and back into CSV. I think everything should be in order and so i will now ship the project and hopefully be approved!
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTczNCwicHVyIjoiYmxvYl9pZCJ9fQ==--062ed1994f54ef0488d1bcdc34f4c6b2c6486120/image.png)
+  
+
